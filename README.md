@@ -1,1 +1,1 @@
-# minm.pro
+# minm-pro
